@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import React, { Children } from 'react';
 import './App.css';
 
